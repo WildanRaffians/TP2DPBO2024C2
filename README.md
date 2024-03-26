@@ -22,3 +22,7 @@ Juga sekarang akan muncul peringatan/error jika terdapat input yang masih kosong
 <h3>Dokumentasi</h3>
 
 
+
+https://github.com/WildanRaffians/TP2DPBO2024C2/assets/134181656/40f56e30-549d-4e29-8034-e4dc74efbace
+
+
